@@ -54,3 +54,4 @@ n=10000
 mean(replicate(1000,cap_ruina_jugador(k,p,n)$duracion))
 
 mean(replicate(1000,cap_ruina_jugador(k,p,n)$resultado)=="ruina")
+
