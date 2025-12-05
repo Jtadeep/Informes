@@ -39,3 +39,4 @@ Probabilidad_3_Iguales <- sum(p^3)
 Probabilidad_3_Iguales
 
 
+
