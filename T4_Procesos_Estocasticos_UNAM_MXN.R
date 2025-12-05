@@ -49,3 +49,4 @@ mean(sim)
 # La probabilidad de ruina con capital inicial u0:
 prob_ruina_analitica<-lambda/(c*alpha)*exp(-alpha*(1-lambda/(c*alpha))*u0)
 prob_ruina_analitica
+
